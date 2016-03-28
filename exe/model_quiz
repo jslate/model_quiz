@@ -5,8 +5,8 @@ require 'model_quiz'
 
 class ModelQuiz::CLI < Thor
 
-  desc "run", "run it"
-  def run
+  desc "run_it", "run it"
+  def run_it
     ModelQuiz.do_stuff
   end
 
