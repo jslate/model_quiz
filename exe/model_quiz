@@ -7,6 +7,7 @@ class ModelQuiz::CLI < Thor
 
   desc "run_it", "run it"
   def run_it
+    puts 'wtf?'
     ModelQuiz.do_stuff
   end
 
