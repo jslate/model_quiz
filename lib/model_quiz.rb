@@ -1,5 +1,9 @@
 require "model_quiz/version"
 
 module ModelQuiz
-  # Your code goes here...
+
+  def self.do_stuff
+    puts 'did stuff!'
+  end
+
 end

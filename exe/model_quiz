@@ -1,0 +1,13 @@
+#!/usr/bin/env ruby
+
+require 'thor'
+require 'model_quiz'
+
+class ModelQuiz::CLI < Thor
+
+  desc "run", "run it"
+  def run
+    ModelQuiz.do_stuff
+  end
+
+end
