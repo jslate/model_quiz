@@ -8,6 +8,8 @@ Clone this repo then do:
   
   $ cd model_quiz
   
+  $ bundle install
+  
   $ bundle exec rake install
 
 ## Usage
