@@ -4,7 +4,7 @@ This is a really dumb gem that will quiz you on model relationship in your rails
 
 ## Installation
 
-  $ git clone ht&#8203;tps://github.com/jslate/model_quiz.git
+Clone this repo then do:
   
   $ cd model_quiz
   
